@@ -1,0 +1,2 @@
+make redis: 
+	docker run 
